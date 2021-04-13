@@ -1,4 +1,6 @@
 # SUPERMARKET BILLING SYSTEM
-> This project focus on creating a supermarket billing system using c program. The program calculates the total amount to be paid upon entering costs and quantity. 
 
-![supermarket](https://github.com/malavika-m/helloworld/blob/1a487bad08d23b5bd20482260f079d2e3a4e40af/pic_mini2.png)
+![supermarket](https://github.com/malavika-m/helloworld/blob/30cdc3eee1d35f5fb3bc7020504d8778974e712d/pic_mini2.png)
+Build | LISCENCE
+---|----
+<img src="https://img.shields.io/badge/c%2Fc%2B%2B-passing-green">| <img src="https://img.shields.io/badge/LISCENCE-MIT-yellow">
