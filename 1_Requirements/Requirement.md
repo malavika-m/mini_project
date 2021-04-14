@@ -50,6 +50,7 @@
 | C_M6   | User to enter amount paid             | Technical | IMPLEMENTED
 | C_M7   | prints balance amount to be paid back | Technical | IMPLEMENTED
 | C_M8   | Sequential execution                  | Business  | IMPLEMENTED
+| C_M9   | Delete records                        | Technical | FUTURE
 
 ### Low level Requirement:
 
