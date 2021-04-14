@@ -7,7 +7,8 @@ Build | LISCENCE
 <img src="https://img.shields.io/badge/c%2Fc%2B%2B-passing-green">| <img src="https://img.shields.io/badge/LISCENCE-MIT-yellow">
 <hr>
 # Github actions
-* Build using make CI
-* Unit test using Cunit
-* Static code analysis using CPP
-* Dynamic Code analysis using Valgrind
+
+- Build using make CI
+- Unit test using Cunit
+- Static code analysis using CPP
+- Dynamic Code analysis using Valgrind
