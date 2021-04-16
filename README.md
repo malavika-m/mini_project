@@ -1,6 +1,6 @@
 # SUPERMARKET BILLING SYSTEM
 
-![supermarket](https://github.com/malavika-m/helloworld/blob/30cdc3eee1d35f5fb3bc7020504d8778974e712d/pic_mini2.png)
+![supermarket](https://github.com/malavika-m/mini_project/blob/8df90a31e082224269b24d41df24c7ae232b0cda/pic_mini2.png)
 <hr>
 
 Code quality | LISCENCE |Unity testing
